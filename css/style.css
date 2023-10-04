@@ -27,38 +27,45 @@ text-align: center;
 
 #Imagedemaisoncuir {
   width: 800px;
-height: 800px;
-  display: flex;
-  margin-bottom: 90px;
-  justify-content: center;
-  margin-left: 390px;
- }
- #ImagePainting {
-width: 800px;
-height: 800px;
-display: flex;
-margin-bottom: 90px;
-justify-content: center;
-margin-left: 390px;
-
- }
- #Image3D {
-width: 800px;
-height: 800px;
-display: flex;
-margin-bottom: 90px;
-justify-content: center;
-margin-left: 390px;
-
-}
-
-#ImageIndochair {
-    width: 800px;
     height: 800px;
     display: flex;
     margin-bottom: 90px;
     justify-content: center;
-    margin-left: 390px;
+    margin-left: auto;
+    margin-right: auto;
+
+ }
+ #ImagePainting {
+ width: 800px;
+    height: 800px;
+    display: flex;
+    margin-bottom: 90px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+
+
+ }
+ #Image3D {
+ width: 800px;
+    height: 800px;
+    display: flex;
+    margin-bottom: 90px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+#ImageIndochair {
+   width: 800px;
+    height: 800px;
+    display: flex;
+    margin-bottom: 90px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
 
       }
   
