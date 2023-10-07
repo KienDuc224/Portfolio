@@ -24,6 +24,12 @@ text-align: center;
   background-color: black;
   margin: 0 auto;
 }
+#video {
+  display:flex;
+  justify-content: center;
+  margin-bottom: 90px;
+
+}
 
 #Imagedemaisoncuir {
   width: 800px;
